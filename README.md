@@ -1,6 +1,9 @@
 # jdc_java
 JDC Java Basic Course
 
+## Prerequisite 
+Docker and VS Code must be installed
+
 ## How to use this repo
 1. Clone this repo into your machine
 2. Open your cloned local repository folder with VS Code
