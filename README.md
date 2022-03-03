@@ -2,7 +2,7 @@
 JDC Java Basic Course
 
 ## Prerequisite 
-Docker and VS Code must be installed
+Docker and VS Code + Remote - Containers extension must be installed
 
 ## How to use this repo
 1. Clone this repo into your machine
